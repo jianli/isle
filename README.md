@@ -1,4 +1,5 @@
 ISLE - Inventory System for Lab Equipment
+dennis was here
 ==========
 
 ![Demo](https://cloud.githubusercontent.com/assets/1322063/14293284/efe856d2-fb39-11e5-9765-7605555b06f8.gif)
